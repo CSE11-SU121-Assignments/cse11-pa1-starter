@@ -34,6 +34,7 @@ Develop a method named ```perimeter``` that when given the width and height of a
 
 ## Problem 2: Border Area (1.5 Points, Autograded)
 Develop a method named ```borderArea``` that given a width and height describing a rectangle, and another width and height describing a rectangle cut out of the center of the other, calculates the area of the region between them.  For example, the blue area in this shape:
+
 <img width="270" alt="Q2_example" src="https://user-images.githubusercontent.com/25071081/112794129-4620bf00-901b-11eb-98a9-58b31327f6e2.png">
 
 ## Problem 3: Converter (3 Points, Open-ended)
