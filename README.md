@@ -1,6 +1,6 @@
 # CSE 11 Programming Assignment 1
 
-### Due Date: Wednesday, April 7, 10:00PM Pacific Time
+### Due Date: Wednesday, April 7, 11:59PM Pacific Time
 
 ## Learning Goals
 - Write functions that take integer parameters and return integer results.
