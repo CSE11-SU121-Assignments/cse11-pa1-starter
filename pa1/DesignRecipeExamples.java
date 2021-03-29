@@ -1,0 +1,4 @@
+import tester.*;
+
+class DesignRecipeExamples {
+}
