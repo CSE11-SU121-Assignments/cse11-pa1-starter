@@ -30,16 +30,16 @@ Different assignments in this course have different collaboration policies. On t
 *(Several of these examples are borrowed from [How to Design Programs](http://www.htdp.org/2003-09-26/Book/curriculum-Z-H-6.html#node_sec_3.3), and its [Supplemental Material](http://www.htdp.org/2003-09-26/Problems/2.html))*
 
 ## Problem 1: Perimeter (1.5 Points, Autograded)
-Develop a method named ```perimeter``` that when given the width and height of a rectangle will calculate its perimeter. 
+Develop a method named ```perimeter``` that when given the width and height of a rectangle will return its perimeter. 
 
 ## Problem 2: Border Area (1.5 Points, Autograded)
-Develop a method named ```borderArea``` that given a width and height describing a rectangle, and another width and height describing a rectangle cut out of the center of the other, calculates the area of the region between them.  For example, the blue area in this shape:
+Develop a method named ```borderArea``` that given a width and height describing a rectangle, and another width and height describing a rectangle cut out of the center of the other, return the area of the region between them.  For example, the blue area in this shape:
 
 <img width="270" alt="Q2_example" src="https://user-images.githubusercontent.com/25071081/112794129-4620bf00-901b-11eb-98a9-58b31327f6e2.png">
 
 ## Problem 3: Converter (3 Points, Open-ended)
 ### Implementation
-Develop a method (with a name of your choice!) that takes one int parameter and converts it to another value. For example, your function could convert:
+Develop a method (with a name of your choice!) that takes one int parameter, converts it to another int value, and returns the new int value. For example, your function could convert:
 - Fahrenheit to Celcius
 - between currencies
 
@@ -50,7 +50,7 @@ Call your method on at least 3 different examples. Compare each result against a
 
 ## Problem 4: Combiner (3 Points, Open-ended)
 ### Implementation
-Develop a method (with a name of your choice!) that takes at least two int parameters and combines them to another value. For example, your function could combine:
+Develop a method (with a name of your choice!) that takes at least two int parameters, combines them to another int value, and returns the new int value. For example, your function could combine:
 - Feet and inches into total in inches
 - Starting hour and minute and end hour and minute into total number of minutes
 
