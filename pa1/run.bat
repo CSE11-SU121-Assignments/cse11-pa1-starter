@@ -4,7 +4,7 @@ if "%1"=="" goto help
 
 del *.class
 javac -cp tester.jar *.java
-java -classpath tester.jar;%cd% tester.Main %1
+java -classpath tester.jar;"%cd%" tester.Main %1
 goto :eof
 
 :help
