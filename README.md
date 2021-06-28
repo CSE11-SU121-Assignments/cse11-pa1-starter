@@ -10,7 +10,7 @@
 Different assignments in this course have different collaboration policies. On this assignment, you can collaborate with **anyone in the course**, including **sharing code**. In your submission, give credit to all students and course staff who helped you with this assignment by noting their name and how you used their ideas or work. Note that using someone's work without giving credit to them is a violation of academic integrity.
 
 ## Process
-- You can download the starter code for this assignment by downloading this repository and navigating to the ```pa1``` folder. You can reference [this document](https://github.com/CSE11-SP21-Assignments/cse11-sp21-pa0.5-Setup-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf) and Discussion 1 for details on setting up your development environment.
+- You can download the starter code for this assignment by downloading this repository and navigating to the ```pa1``` folder. You can reference [this document](https://github.com/CSE11-SU121-Assignments/cse11-pa0.5-Setup-starter/blob/main/Instructions%20for%20setting%20up%20Java%20on%20your%20own%20machine.pdf) and Discussion 1 for details on setting up your development environment.
 - You will write your code in DesignRecipeExamples.java. You can run the code to test it yourself with:
 
     Mac and CloudLabs: ```./run DesignRecipeExamples```
